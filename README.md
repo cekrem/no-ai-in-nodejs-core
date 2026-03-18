@@ -74,6 +74,7 @@ speed up the process.
 - Paolo Fragomeni (Software Engineer)
 - Samir Saeedi (Web Developer, Node.js user)
 - Jamie Kyle (Open Source Developer, TC39 Invited Expert)
+- Ellie Kanning
 - Sean Scally (Programmer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
