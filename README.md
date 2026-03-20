@@ -163,6 +163,7 @@ speed up the process.
 - Griffin Johnston (Software Engineer, Node user since the early days)
 - Radu "XPilot" Paraschiv (Software Architect, Node user since the 2010)
 - Blaine Bublitz (Open Source Developer, Gulp Lead Maintainer)
+- Hunter Perrin (Software Engineer, Owner, SciActive Inc / Port87)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
