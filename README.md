@@ -184,6 +184,7 @@ speed up the process.
 - Lee Ashmore (Software Engineer)
 - Erik Westra (Developer)
 - Andrei Mandrican (Developer)
+- Pascal Le Merrer (Developer)
 - Christopher Spears (Software Engineer)
 - Sahil Agarwal (Developer, Nodejs user)
 - Benoît Bailleux (Software Architect / Corporate OpenSource Advocate)
